@@ -1,0 +1,10 @@
+.navbar-nav a {
+    font-size: 18px;
+}
+
+.register {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
